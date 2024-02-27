@@ -1,5 +1,2 @@
-# AutoDraw for skribbl.io
-
-Chrome extension that automatically draws images in pictionary game, [skribbl.io](https://skribbl.io/). Simply drag and drop an image on the canvas to initiate auto draw. [Download from Chrome Web Store](https://chrome.google.com/webstore/detail/autodraw-for-skribblio/bpnefockcbbpkbahgkkacjmebfheacjb).
-
-![Drawing a Starfish](/drawing-a-starfish.gif)
+# AutoDraw for 
+![download](https://github.com/galehouse5/skribbl-io-autodraw/assets/161509432/3c1e068b-5b29-437f-aa55-8c3799199a29)
